@@ -1,0 +1,6 @@
+Customer.class
+Main.class
+CustomerStorage.class
+exceptions\WrongPhoneFormatException.class
+exceptions\WrongEmailFormatException.class
+exceptions\WrongCustomerDataException.class
